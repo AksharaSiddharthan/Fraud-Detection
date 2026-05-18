@@ -15,12 +15,14 @@ Place creditcard.csv inside your project folder
 # 2. Create Project Folder
 
 Example structure:
-
+'''
 credit-card-fraud-detection/
 │
 ├── creditcard.csv
 ├── model.py
 ├── README.md
+
+''' 
 
 # 3. Install Python Libraries
 
