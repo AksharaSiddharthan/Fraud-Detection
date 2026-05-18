@@ -14,19 +14,18 @@ Place creditcard.csv inside your project folder
 
 # 2. Create Project Folder
 
-Example structure:
-'''
+```
 credit-card-fraud-detection/
 │
 ├── creditcard.csv
 ├── model.py
 ├── README.md
 
-''' 
+```
 
 # 3. Install Python Libraries
 
-Open terminal / command prompt inside the project folder.
+Open terminal/command prompt inside the project folder.
 
 Run:
 
@@ -46,7 +45,7 @@ Execute:
 
 python model.py
 # 6. What Happens After Running
-
+```
 The script will:
 
 ✅ Load the dataset
@@ -56,7 +55,7 @@ The script will:
 ✅ Predict fraud transactions
 ✅ Print evaluation metrics
 ✅ Save trained model files
-
+```
 # 7. Expected Output
 
 You will see:
